@@ -1,0 +1,51 @@
+.hometitle {
+
+    color:white;
+    background-color: pink;
+    font-size: 50px;
+    font-weight: 700;
+    font-family: Helvetica, Arial, sans-serif;
+
+}
+
+h1 {
+    text-align:center;
+    background-color: orange;
+    font-size:35px;
+}
+
+a {
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.chickenpic{
+    height: auto;
+    width: 500px;
+}
+
+.saladpic{
+    height: auto;
+    width: 500px;
+}
+
+h2 {
+    background-color: rgba(211, 98, 98, 0.575);
+    color: white;
+
+
+}
+
+.ingredients, .steps{
+    background-color: rgba(56, 62, 112, 0.37);
+    font-size: 25px;
+}
+
+.salad {
+    background-color:rgb(144, 255, 129)
+}
+
+.chick {
+    background-color: rgba(155, 0, 34, 0.911)
+}
+
